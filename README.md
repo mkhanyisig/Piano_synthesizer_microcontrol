@@ -1,4 +1,5 @@
 CS342 Fall 2018
+
 Final Project : Making a piano/synthesizer with 5 modes and frequency adjustments using ADC and capacitive touch sensing
 
 Demo link: 
